@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neagu Andrei
 - 👀 I’m interested in Python Programming Language and Automotive Industry
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Python Project
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me https://www.linkedin.com/in/andrei-neagu-30a37011a/
